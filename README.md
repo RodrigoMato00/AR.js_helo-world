@@ -10,7 +10,7 @@ A basic scene that attaching text to the letter A and letter B markers.
 
 ### Letter B Marker:
 
-- hello, world! is written in a 2d plane
+- hello, world! is written in 3d letters
 
 ## Markers:
 
